@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "at_cSharp09/1.0.0": {
+        "runtime": {
+          "at_cSharp09.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "at_cSharp09/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

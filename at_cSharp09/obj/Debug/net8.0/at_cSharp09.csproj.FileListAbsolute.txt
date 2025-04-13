@@ -1,0 +1,14 @@
+/Users/bella/c#/AT_fundamentos/at_09/at_cSharp09/bin/Debug/net8.0/at_cSharp09
+/Users/bella/c#/AT_fundamentos/at_09/at_cSharp09/bin/Debug/net8.0/at_cSharp09.deps.json
+/Users/bella/c#/AT_fundamentos/at_09/at_cSharp09/bin/Debug/net8.0/at_cSharp09.runtimeconfig.json
+/Users/bella/c#/AT_fundamentos/at_09/at_cSharp09/bin/Debug/net8.0/at_cSharp09.dll
+/Users/bella/c#/AT_fundamentos/at_09/at_cSharp09/bin/Debug/net8.0/at_cSharp09.pdb
+/Users/bella/c#/AT_fundamentos/at_09/at_cSharp09/obj/Debug/net8.0/at_cSharp09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bella/c#/AT_fundamentos/at_09/at_cSharp09/obj/Debug/net8.0/at_cSharp09.AssemblyInfoInputs.cache
+/Users/bella/c#/AT_fundamentos/at_09/at_cSharp09/obj/Debug/net8.0/at_cSharp09.AssemblyInfo.cs
+/Users/bella/c#/AT_fundamentos/at_09/at_cSharp09/obj/Debug/net8.0/at_cSharp09.csproj.CoreCompileInputs.cache
+/Users/bella/c#/AT_fundamentos/at_09/at_cSharp09/obj/Debug/net8.0/at_cSharp09.dll
+/Users/bella/c#/AT_fundamentos/at_09/at_cSharp09/obj/Debug/net8.0/refint/at_cSharp09.dll
+/Users/bella/c#/AT_fundamentos/at_09/at_cSharp09/obj/Debug/net8.0/at_cSharp09.pdb
+/Users/bella/c#/AT_fundamentos/at_09/at_cSharp09/obj/Debug/net8.0/at_cSharp09.genruntimeconfig.cache
+/Users/bella/c#/AT_fundamentos/at_09/at_cSharp09/obj/Debug/net8.0/ref/at_cSharp09.dll
