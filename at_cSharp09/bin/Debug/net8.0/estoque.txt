@@ -1,1 +1,3 @@
 arroz, 25, 10
+lala, 53, 63
+udhksn, 23, 44

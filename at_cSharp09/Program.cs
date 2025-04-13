@@ -98,7 +98,7 @@ class Program
                     string[] dados = linha.Split(',');
                     if (dados.Length != 3 || !int.TryParse(dados[1], out int quantidade) || !decimal.TryParse(dados[2], out decimal preco))
                     {
-                        Console.WriteLine("Erro ao ler um produto. formato incorreto");
+                        Console.WriteLine("Erro ao ler um produto formato incorreto");
                         continue;
                     }
                     Console.WriteLine($"Produto: {dados[0]} | Quantidade: {quantidade} | Preço: R$ {preco:0.00}");
